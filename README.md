@@ -1,2 +1,2 @@
 # amzhubv2
-amz hub v2 files
+amz hub v2 files - auto update
